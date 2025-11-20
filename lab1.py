@@ -1,4 +1,4 @@
-import math #coz yea 
+import math #coz yea q7
 # Q1
 def q1():
     farenheight = float(input('Enter temperature in fahrenheit: '))
